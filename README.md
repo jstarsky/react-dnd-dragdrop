@@ -1,2 +1,2 @@
-# react-dnd-dragdrop
-Created with CodeSandbox
+# ReactDND_Blog
+It's a small implementation of creating draggable and droppable React component using React DND .
